@@ -34,22 +34,20 @@ An actor who "Opts-out" will have full control of their identity and will have a
 #### Spam Attacks on Boomerang's Identity Creation Service
 Since The Boomerang Foundation will be paying the gas costs of creating identity contracts of actors, it is vulnerable to spam attacks which would drain the funds of the Boomerang foundation, while giving the attacker a free Ethereum Identity with an associated ENS subdomain. With this in mind, it is important that Boomerang's ICS has a strong validation mechanism when onboarding new actors. This validation mechanism is still to be determined.
 
-### Logging in with an Existing Ethereum Identity (Or Private Key)
-Since we want actors to be able to interact with Boomerang in a completely decentralized manner, our client requires three flows for logging into Boomerang with either an existing identity, a private key, or both. The second and third identity flow will be the same flow for actor's who "Opted-Out" of BAR and SBL.
+### Login and Account Recovery for Opted-Out Identities, Outside Identites, and Regular Ethereum Accounts
+#### Login
+##### Opted-Out Identity & Outside Identity
+Actor will login to a client on a new device by requesting access to identity contract. Actor will use logged-in device to accept request. Actor can now interact with the Boomerang DApp. In case of Outside Identity actor will not be able to use our clients to accept a request.
 
-*Flow 1: Actor has private key*
+##### Regular Ethereum Account
+Actor will enter private key into client to be able to interact with the Boomerang DApp.
 
-Actor enters private key into Boomerang client and then can interact with the DApp 
+#### Account Recovery
+##### Opted-Out Identity
+If an Opted-Out identity loses access to their registered devices, they can use the private key given to them during opt-out to register a new device onto the identity.
 
-*Flow 2: Actor has Identity*
-
-Actor enters name of identity (Bob if the identity is bob.boomerang.eth, or bob.otheridentity.eth if identity is bob.otheridentity.eth) and requests access for this device to that identity. Actor will then need to accept request on previously registered device. 
-
-*Flow 3: Actor has Identity and a Private Key Associated with that Identity*
-
-Actor enters name of identity (Bob if the identity is bob.boomerang.eth, or bob.otheridentity.eth if identity is bob.otheridentity.eth) and enters private key to register new device.
-*The third flow is in the case where a user has a private key that is registered with an identity and they want to register a new device with that identity.*
-
+##### Outside Identity and Regular Ethereum Account
+If an outside identity loses access to their registered devices they will have no way to recover their account,same for a regular ethereum account loseing their private key.
 
 ## Whiteboard References
 ![Universal Login Whiteboard Reference](imgs/UniversalLoginWhiteboard.jpg "Universal Login Whiteboard Reference").

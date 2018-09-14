@@ -32,4 +32,4 @@ Since The Boomerang Foundation will be paying the gas costs of creating identity
 
 
 ## Whiteboard References
-
+![Universal Login Whiteboard Reference](imgs/UniversalLoginWhiteboard.jpg "Universal Login Whiteboard Reference").

@@ -34,7 +34,19 @@ A UWoB who "Opts-out" will have full control of their identity and will have a c
 #### Spam Attacks on Boomerang's Identity Creation Service
 Since The Boomerang Foundation will be paying the gas costs of creating identity contracts of UWoBs, it is vulnerable to spam attacks which would drain the funds of the Boomerang foundation, while giving the attacker a free Ethereum Identity with an associated ENS subdomain. With this in mind, it is important that Boomerang's ICS has a strong validation mechanism when onboarding new UWoBs. This validation mechanism is still to be determined.
 
-### Logging in with an Existing Ethereum Identity
+### Logging in with an Existing Ethereum Identity (Or Private Key)
+Since we want UWoBs to be able to interact with Boomerang in a completely decentralized manner, our client requires two flows for logging into Boomerang with either an existing identity or a private key. The identity flow will be the same flow for UWoB's who "Opted-Out" of BAR and SBL.
+
+*Flow 1: Actor has private key*
+Actor enters private key into Boomerang client and then can interact with the DApp 
+
+*Flow 2: Actor has Identity*
+Actor enters name of identity (Bob if the identity is bob.boomerang.eth, or bob.otheridentity.eth if identity is bob.otheridentity.eth) and requests access for this device to that identity. Actor will then need to accept request on previously registered device. 
+
+There will be a third flow, in the case where a user has a private key that is registered with an identity and they want to register a new device with that identity.
+
+*Flow 3: Actor has Identity and a Private Key Associated with that Identity*
+Actor enters name of identity (Bob if the identity is bob.boomerang.eth, or bob.otheridentity.eth if identity is bob.otheridentity.eth) and enters private key to register new device.
 
 
 ## Whiteboard References

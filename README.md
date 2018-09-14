@@ -1,5 +1,5 @@
 ![alt text](https://github.com/BoomerangProject/boomerang-wiki/blob/master/images/logo.png "Boomerang Logo")
-# Welcome to the Boomerang Wiki
+# Welcome to the Boomerang Wiki!
 
 ### The Boomerang Vision
 As the service and marketplace economies have boomed, the majority of the wealth created has remained in the hands of the platform owners, developers, and investors. Key incentives for workers and users — tips and rewards — have been misaligned, fundamentally shaping inconsistent experiences.

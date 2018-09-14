@@ -37,7 +37,7 @@ Since The Boomerang Foundation will be paying the gas costs of creating identity
 ### Login and Account Recovery for Opted-Out Identities, Outside Identites, and Regular Ethereum Accounts
 #### Login
 ##### Opted-Out Identity & Outside Identity
-Actor will login to a client on a new device by requesting access to identity contract. Actor will use logged-in device to accept request. Actor can now interact with the Boomerang DApp. In case of Outside Identity actor will not be able to use our clients to accept a request.
+Actor will login to a client on a new device by requesting access to identity contract. Actor will use a logged-in device to accept request. Actor can now interact with the Boomerang DApp. In case of Outside Identity actor will not be able to use our clients to accept a request.
 
 ##### Regular Ethereum Account
 Actor will enter private key into client to be able to interact with the Boomerang DApp.

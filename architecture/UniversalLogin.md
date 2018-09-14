@@ -25,14 +25,14 @@ If a UWoB has used Boomerang's ICS  to create and Ethereum Identity, then they h
 
 ![Github Danger Zone](imgs/DangerZone.png "Github Danger Zone").
 
-When the UWoB "Opts-Out" of BAR and SBL, the Boomerang client will generate a new private key and attach the associated public key to the UWoB's identity. Then the client will remove the Boomerang Foundation public key from the UWoB's identity contract, then display either the new private key or mnemonic phrase to the UWoB to store. From now on if the user loses access to his devices which are registered to the identity contract, the only way to log into Boomerang will be with this private key or mnemonic phrase. If a user wishes to register a new device onto his identity through the Boomerang client from here on out, they will need to make a request to their identity contract and accept the request on another device that has previously been registered to the contract.
+When the UWoB "Opts-Out" of BAR and SBL, the Boomerang client will generate a new private key and attach the associated public key to the UWoB's identity. Then the client will remove the Boomerang Foundation public key from the UWoB's identity contract, then display either the new private key or mnemonic phrase to the UWoB to store. From now on if the UWoB loses access to his devices which are registered to the identity contract, the only way to log into Boomerang will be with this private key or mnemonic phrase. If a UWoB wishes to register a new device onto his identity through the Boomerang client from here on out, they will need to make a request to their identity contract and accept the request on another device that has previously been registered to the contract.
 The architecture diagram will now look like this:
 ![Boomerang Universal Login Opt-out](imgs/BoomerangUniversalSignInOptOut.jpg "Boomerang Universal Login Opt-out")
 
 A UWoB who "Opts-out" will have full control of their identity and will have a completely trustless identity account, of course, the UWoB is now responsible for ensuring the security and availability of their own identity.
 
 #### Spam Attacks on Boomerang's Identity Creation Service
-Since The Boomerang Foundation will be paying the gas costs of creating identity contracts of UWoBs, it is vulnerable to spam attacks which would drain the funds of the Boomerang foundation, while giving the attacker a free Ethereum Identity with an associated ENS subdomain. With this in mind, it is important that Boomerang's ICS has a strong validation mechanism when onboarding new users. This validation mechanism is still to be determined.
+Since The Boomerang Foundation will be paying the gas costs of creating identity contracts of UWoBs, it is vulnerable to spam attacks which would drain the funds of the Boomerang foundation, while giving the attacker a free Ethereum Identity with an associated ENS subdomain. With this in mind, it is important that Boomerang's ICS has a strong validation mechanism when onboarding new UWoBs. This validation mechanism is still to be determined.
 
 ### Logging in with an Existing Ethereum Identity
 

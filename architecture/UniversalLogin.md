@@ -1,4 +1,4 @@
-![alt text](https://github.com/BoomerangProject/boomerang-wiki/blob/master/images/logo.png "Boomerang Logo")
+![Boomerang Logo](https://github.com/BoomerangProject/boomerang-wiki/blob/master/images/logo.png "Boomerang Logo")
 # Boomerang Universal Login
 The Boomerang project plans to implement [EIP 1078: Universal Login by Alex Van de Sande.](https://eips.ethereum.org/EIPS/eip-1078)
 This EIP describes a method of creating an "Identity" for the user (a contract on the Ethereum Blockchain) in which 
@@ -12,7 +12,7 @@ identity with Boomerang and the subdomain bob.boomerang.eth would be associated 
 * **UWoB** - User, Worker, or Business
 * **ICS** - Identity Creation Service
 
-![alt text](imgs/BoomerangUniversalLogin.jpg "Boomerang Universal Login Architecture Diagram")
+![Boomerang Universal Login](imgs/BoomerangUniversalLogin.jpg "Boomerang Universal Login Architecture Diagram")
 
 
 ### Creating an Identity through Boomerang
@@ -21,7 +21,7 @@ The Boomerang Foundation, aiming to provide a familiar user experience to Web 2.
 #### Opting Out of Boomerang Account Recovery and Simplified Boomerang Login
 If a UWoB has used Boomerang's ICS  to create and Ethereum Identity, then they have the option of "Opting Out" of Boomerang Account Recovery (BAR) and Simplified Boomerang Login (SBL). This "Opt-Out" option will probably live inside of the UWoB's preferences, and come with warnings - similar to the danger zone in GitHub.
 
-![alt text](imgs/DangerZone.jpg "Github Danger Zone").
+![Github Danger Zone](imgs/DangerZone.png "Github Danger Zone").
 
 When the UWoB "Opts-Out" of BAR and SBL, the Boomerang client will generate a new private key and attach the associated public key to the UWoB's identity. Then the client will remove the Boomerang Foundation public key from the UWoB's identity contract, then display either the new private key or mnemonic phrase to the UWoB to store. From now on if the user loses access to his devices which are registered to the identity contract, the only way to log into Boomerang will be with this private key or mnemonic phrase. If a user wishes to register a new device onto his identity through the Boomerang client from here on out, they will need to make a request to their identity contract and accept the request on another device that has previously been registered to the contract.
 

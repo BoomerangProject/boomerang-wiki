@@ -47,7 +47,7 @@ Actor will enter private key into client to be able to interact with the Boomera
 If an Opted-Out identity loses access to their registered devices, they can use the private key given to them during opt-out to register a new device onto the identity.
 
 ##### Outside Identity and Regular Ethereum Account
-If an outside identity loses access to their registered devices they will have no way to recover their account,same for a regular ethereum account loseing their private key.
+If an outside identity loses access to their registered devices they will have no way to recover their account, same for a regular ethereum account losing their private key.
 
 ## Whiteboard References
 ![Universal Login Whiteboard Reference](imgs/UniversalLoginWhiteboard.jpg "Universal Login Whiteboard Reference").

@@ -6,4 +6,4 @@ order to access their account with different devices. This is done by storing a 
 has permissions on the identity contract. Each device will contain its own private key. The identity contract of the 
 user will have an ENS (Ethereum Name Service) subdomain associated with the contract. For example, Bob may create an 
 identity with Boomerang and the subdomain bob.boomerang.eth would be associated with his identity.
-![alt text](imgs/BoomerangUniversalLogin.jpg "Boomerand Universal Login Architecture Diagram")
+![alt text](imgs/BoomerangUniversalLogin.jpg "Boomerang Universal Login Architecture Diagram")

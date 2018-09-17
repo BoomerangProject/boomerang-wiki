@@ -6,8 +6,11 @@ Discussed Universal Login and Metatransactions with how they relate to Boomerang
 
 ### User Login Design Meeting 9/14/2018
 Garin, Ben, Eric, and Kyle discussed what the user login flow might look like with Boomerang Universal Login.
+
 Deliverables: [Garin's Login Screens](TBD), [Eric's Login Flow Diagram](TBD)
 
 
 ### Standup 9/17/2018
-Kyle abd Ben discussed updated roadmap and had a short discussion about how integration with Skedaddle might operate. Ben and Kyle are continuing to do research into Universal Login and Metatransactions. Kyle is continuing to flesh out the Boomerang Wiki and will start on a Universal Login proof-of-concept. [Updated Roadmap](TBD)
+Kyle abd Ben discussed updated roadmap and had a short discussion about how integration with Skedaddle might operate. Ben and Kyle are continuing to do research into Universal Login and Metatransactions. Kyle is continuing to flesh out the Boomerang Wiki and will start on a Universal Login proof-of-concept. 
+
+Delivarables: [Updated Roadmap](TBD)

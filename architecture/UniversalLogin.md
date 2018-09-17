@@ -1,7 +1,7 @@
 ![Boomerang Logo](https://github.com/BoomerangProject/boomerang-wiki/blob/master/images/logo.png "Boomerang Logo")
 # Boomerang Universal Login
 The Boomerang project plans to implement a version of [EIP 1078: Universal Login by Alex Van de Sande.](https://eips.ethereum.org/EIPS/eip-1078)
-This EIP describes a method of creating an "Identity" for the user (a contract on the Ethereum Blockchain) in which 
+This EIP describes a method of creating an "Identity" [(EIP 725, 735)](https://github.com/mirceapasoi/erc725-735/blob/master/contracts/Identity.sol) for the user (a contract on the Ethereum Blockchain) in which 
 each user device is capable of being an "accessor" to this contract and the user can add new devices or "accessors" in
 order to access their account with different devices. This is done by storing a private key on the user's device that 
 has permissions on the identity contract. Each device will contain its own private key. The identity contract of the 

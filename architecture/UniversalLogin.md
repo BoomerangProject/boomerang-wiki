@@ -49,5 +49,13 @@ If an Opted-Out identity loses access to their registered devices, they can use 
 ##### Outside Identity and Regular Ethereum Account
 If an outside identity loses access to their registered devices they will have no way to recover their account, same for a regular ethereum account losing their private key.
 
+## Boomerang Login Flow Diagram
+How a user will interact with the Boomerang DApp.
+![Boomerang Login Flow Diagram](imgs/BoomerangSignInFlows.png "Boomerang Login Flow Diagram").
+
+## Boomerang Login Screens
+Current Screen mockups of the login flow:
+[Boomerang Login Screens](documents/Boomerang_web_signup-login_flow.pdf "Boomerang Login Screens")
+
 ## Whiteboard References
 ![Universal Login Whiteboard Reference](imgs/UniversalLoginWhiteboard.jpg "Universal Login Whiteboard Reference").

@@ -7,7 +7,7 @@ Discussed Universal Login and Metatransactions with how they relate to Boomerang
 ### User Login Design Meeting 9/14/2018
 Garin, Ben, Eric, and Kyle discussed what the user login flow might look like with Boomerang Universal Login.
 
-Deliverables: [Garin's Login Screens](TBD), [Eric's Login Flow Diagram](TBD)
+Deliverables: [Garin's Login Screens](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/documents/Boomerang_web_signup-login_flow.pdf), [Eric's Login Flow Diagram](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/imgs/BoomerangSignInFlows.png)
 
 
 ### Standup 9/17/2018

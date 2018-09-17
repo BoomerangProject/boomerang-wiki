@@ -12,27 +12,31 @@ Deliverables: [Garin's Login Screens](https://github.com/BoomerangProject/boomer
 
 ### Standup 9/17/2018
 Kyle and Ben discussed updated roadmap and had a short discussion about how integration with Skedaddle might operate. Ben and Kyle are continuing to do research into Universal Login and Metatransactions. Kyle is continuing to flesh out the Boomerang Wiki and will start on a [Universal Login proof-of-concept.](https://github.com/BoomerangProject/boomerang-universal-login-poc) 
+
+
 **Suggested Roadmap:**
+
+
 September 2018 - December 2018
 
-*- Build architecture for Universal Logins
-*- Build Metatransaction Layer
-*- Build ENS subdomain registrar
-*- Release alpha smart contracts on testnet
-*- Deploy limited release of alpha dapp
+- Build architecture for Universal Logins
+- Build Metatransaction Layer
+- Build ENS subdomain registrar
+- Release alpha smart contracts on testnet
+- Deploy limited release of alpha dapp
 
 January 2019 - May 2019
 
-*- Have smart contracts audited by security professionals
-*- Release contracts to Mainnet
-*- Beta integration with Skedaddle platform
-*- Deploy limited release of beta dapp (releases for iphone, android, and web client)
-*- Onboard Skedaddle riders and drivers onto beta platform
+- Have smart contracts audited by security professionals
+- Release contracts to Mainnet
+- Beta integration with Skedaddle platform
+- Deploy limited release of beta dapp (releases for iphone, android, and web client)
+- Onboard Skedaddle riders and drivers onto beta platform
 
 June 2019 - December 2019
 
-*- Launch iOS app to Apple App Store
-*- Launch Boomerang Foundation website with quickstart documentation
-*- Launch android library to JCenter for easy gradle integration
-*- Launch iOS library to CocaoPods for easy Xcode integration
-*- Launch android app to Google Play Store
+- Launch iOS app to Apple App Store
+- Launch Boomerang Foundation website with quickstart documentation
+- Launch android library to JCenter for easy gradle integration
+- Launch iOS library to CocaoPods for easy Xcode integration
+- Launch android app to Google Play Store

@@ -13,5 +13,5 @@ As a programmatic, ratings-based rewards and tipping protocol across all service
 ### [Design - TBD]()
 ### [Documents - TBD]()
 ### [Projects - TBD]()
-### [Meetings - TBD]()
+### [Meetings](https://github.com/BoomerangProject/boomerang-wiki/tree/master/meetings)
 ### [Press - TBD]()

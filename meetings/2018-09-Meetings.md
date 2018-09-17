@@ -11,6 +11,6 @@ Deliverables: [Garin's Login Screens](https://github.com/BoomerangProject/boomer
 
 
 ### Standup 9/17/2018
-Kyle and Ben discussed updated roadmap and had a short discussion about how integration with Skedaddle might operate. Ben and Kyle are continuing to do research into Universal Login and Metatransactions. Kyle is continuing to flesh out the Boomerang Wiki and will start on a Universal Login proof-of-concept. 
+Kyle and Ben discussed updated roadmap and had a short discussion about how integration with Skedaddle might operate. Ben and Kyle are continuing to do research into Universal Login and Metatransactions. Kyle is continuing to flesh out the Boomerang Wiki and will start on a [Universal Login proof-of-concept.](https://github.com/BoomerangProject/boomerang-universal-login-poc) 
 
 Delivarables: [Updated Roadmap](TBD)

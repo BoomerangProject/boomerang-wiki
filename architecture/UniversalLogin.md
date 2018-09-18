@@ -60,5 +60,9 @@ How a user will interact with the Boomerang DApp.
 Current Screen mockups of the login flow:
 [Boomerang Login Screens](documents/Boomerang_web_signup-login_flow.pdf "Boomerang Login Screens")
 
+## External References
+[EthereumIdentitySDK](https://github.com/EthWorks/EthereumIdentitySDK)
+
 ## Whiteboard References
-![Universal Login Whiteboard Reference](imgs/UniversalLoginWhiteboard.jpg "Universal Login Whiteboard Reference").
+![Universal Login Whiteboard Reference](imgs/UniversalLoginWhiteboard.jpg "Universal Login Whiteboard Reference")
+

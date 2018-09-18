@@ -2,7 +2,7 @@
 # September 2018 Meeting Notes
 
 ### Standup 9/14/2018
-Discussed Universal Login and Metatransactions with how they relate to Boomerang. Ben built out alpha APIs in GoLang which will be used by the Boomerang DApp. Kyle has been working on the [High Level Design of Boomerang Universal Login](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/UniversalLogin.md) and fleshing out the Boomerang Wiki.
+Discussed Universal Login and Metatransactions with how they relate to Boomerang. Ben built out [alpha APIs in GoLang](https://github.com/BoomerangProject/boomerang-api) which will be used by the Boomerang DApp. Kyle has been working on the [High Level Design of Boomerang Universal Login](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/UniversalLogin.md) and fleshing out the Boomerang Wiki.
 
 ### User Login Design Meeting 9/14/2018
 Garin, Ben, Eric, and Kyle discussed what the user login flow might look like with Boomerang Universal Login.

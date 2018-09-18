@@ -11,7 +11,7 @@ Deliverables: [Garin's Login Screens](https://github.com/BoomerangProject/boomer
 
 
 ### Engineering Standup 9/17/2018
-Kyle and Ben discussed updated roadmap and had a short discussion about how integration with Skedaddle might operate. Ben and Kyle are continuing to do research into Universal Login and Metatransactions. Kyle is continuing to flesh out the Boomerang Wiki and will start on a [Universal Login proof-of-concept.](https://github.com/BoomerangProject/boomerang-universal-login-poc) 
+Kyle and Ben discussed updated roadmap and had a short discussion about how integration with Skedaddle might operate. Ben and Kyle are continuing to do research into Universal Login and Metatransactions. Kyle is continuing to flesh out the Boomerang Wiki and will start on a [Universal Login proof-of-concept.](https://github.com/BoomerangProject/boomerang-universal-login) 
 
 
 **Suggested Roadmap:**
@@ -42,4 +42,4 @@ June 2019 - December 2019
 - Launch android app to Google Play Store
 
 ### Engineering Standup 9/18/2018
-Kyle and Ben have been researching and determining the details behind Boomerang's Universal Login. We found a [github repository](https://github.com/EthWorks/EthereumIdentitySDK) which gives us some base functionality for Universal Login. We will use this project to bootstrap the Boomerang Universal Login Proof of Concept.
+Kyle and Ben have been researching and determining the details behind Boomerang's Universal Login. We found a [github repository](https://github.com/EthWorks/EthereumIdentitySDK) which gives us some base functionality for Universal Login. We will use this project to bootstrap the [Boomerang Universal Login Proof of Concept](https://github.com/BoomerangProject/boomerang-universal-login).

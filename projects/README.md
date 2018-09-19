@@ -13,4 +13,4 @@
 
 [Boomerang Go APIs](https://github.com/BoomerangProject/boomerang-api)
 
-[Universal Login Proof of Concept](https://github.com/BoomerangProject/boomerang-universal-login-poc)
+[Universal Login Proof of Concept](https://github.com/BoomerangProject/boomerang-universal-login)

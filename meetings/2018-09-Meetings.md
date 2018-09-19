@@ -44,5 +44,5 @@ June 2019 - December 2019
 ### Engineering Standup 9/18/2018
 Kyle and Ben have been researching and determining the details behind Boomerang's Universal Login. We found a [github repository](https://github.com/EthWorks/EthereumIdentitySDK) which gives us some base functionality for Universal Login. We will use this project to bootstrap the [Boomerang Universal Login Proof of Concept](https://github.com/BoomerangProject/boomerang-universal-login).
 
-### Engineering Standup 9/18/2018
+### Engineering Standup 9/19/2018
 Kyle and Ben are continuing to poke at the [EthereumIdentitySDK](https://github.com/EthWorks/EthereumIdentitySDK) repo while making changes to our own proof of concept. Discussed difficulties with storing an email in an eth domain space (specifically around the use of dots in email). 

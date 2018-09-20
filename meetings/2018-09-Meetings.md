@@ -46,3 +46,10 @@ Kyle and Ben have been researching and determining the details behind Boomerang'
 
 ### Engineering Standup 9/19/2018
 Kyle and Ben are continuing to poke at the [EthereumIdentitySDK](https://github.com/EthWorks/EthereumIdentitySDK) repo while making changes to our own proof of concept. Discussed difficulties with storing an email in an eth domain space (specifically around the use of dots in email). 
+
+### Engineering Standup 9/20/2018
+Kyle has been pciking out pieces of the [EthereumIdentitySDK](https://github.com/EthWorks/EthereumIdentitySDK) and plugging in boomerang specific pieces. Yesterday he add a username generation to map to email addresses so that users can log in with an email. Ben has been testing the assumptions we have made using EthereumIdentitySDK, ensuring that the identity contract, relayer, and clicker contract are working as expected behind the scenes. 
+
+Kyle and Ben discussed Boomerang's reward structure and how users and workers can accumulate boom through reviews and how businesses can set up a reward structure for it's workers and users. We discussed a potential verbage shift - will discuss further with Garin when he is in Boston next week.
+
+Kyle and Ben discussed [metatransaction standards](https://github.com/austintgriffith/meta-transaction-format-share) which are currently being discussed and created by a community of ethereum developers. This also includes the concepts behind a Metatransaction Relayer Pool which Boomerang can eventually make use of.

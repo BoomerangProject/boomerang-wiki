@@ -55,3 +55,6 @@ Ben has been testing the assumptions we have made using EthereumIdentitySDK, ens
 Kyle and Ben discussed Boomerang's reward structure and how users and workers can accumulate boom through reviews and how businesses can set up a reward structure for it's workers and users. We discussed a potential verbage shift - will discuss further with Garin when he is in Boston next week.
 
 Kyle and Ben discussed [metatransaction standards](https://github.com/austintgriffith/meta-transaction-format-share) which are currently being discussed and created by a community of ethereum developers. This also includes the concepts behind a Metatransaction Relayer Pool which Boomerang can eventually make use of.
+
+###  Work Notes 9/21/2018
+Kyle has continued to poke at the [Boomerang Universal Login Proof of Concept](https://github.com/BoomerangProject/boomerang-universal-login) while merging in changes from its parent fork.

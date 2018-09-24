@@ -62,7 +62,7 @@ Kyle has continued to poke at the [Boomerang Universal Login Proof of Concept](h
 ###  Work Notes 9/24/2018
 Kyle has continued to poke at the [Boomerang Universal Login Proof of Concept](https://github.com/BoomerangProject/boomerang-universal-login) while merging in changes from its parent fork. 
 
-Kyle will be working on a presentation for Skedaddle about the progress of Boomerang and its current vision.
+Kyle will be working on a [presentation](https://docs.google.com/presentation/d/175IATallX1G-9yTQFhMQWhWqOr9UcuPajqJBsdA9G4Y/edit?usp=sharing) for Skedaddle about the progress of Boomerang and its current vision.
 
 Kyle has been in contact with some other teams working on MetaTransactions and will take part in the first [MetaTx Community Call](https://hackmd.io/-fF2VKIFRzyiWaxVQAh0wA?view) on Thursday @ 11am.
 

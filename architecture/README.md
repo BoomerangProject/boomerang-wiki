@@ -3,6 +3,7 @@
 ### [Architecture Overview](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/Overview.md)
 ### [Universal Login (EIP 1078)](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/UniversalLogin.md)
 ### [Meta Transaction Layer](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/MetaTransactionLayer.md)
+### [Boomerang Rewards]()
 ### [Boomerang Token - TBD](TBD)
 ### [Boomerang Smart Contracts - TBD](TBD)
 ### [Boomerang Frontend - TBD](TBD)

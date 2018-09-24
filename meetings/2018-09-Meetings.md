@@ -58,3 +58,14 @@ Kyle and Ben discussed [metatransaction standards](https://github.com/austintgri
 
 ###  Work Notes 9/21/2018
 Kyle has continued to poke at the [Boomerang Universal Login Proof of Concept](https://github.com/BoomerangProject/boomerang-universal-login) while merging in changes from its parent fork.
+
+###  Work Notes 9/24/2018
+Kyle has continued to poke at the [Boomerang Universal Login Proof of Concept](https://github.com/BoomerangProject/boomerang-universal-login) while merging in changes from its parent fork. 
+
+Kyle will be working on a presentation for Skedaddle about the progress of Boomerang and its current vision.
+
+Kyle has been in contact with some other teams working on MetaTransactions and will take part in the first [MetaTx Community Call](https://hackmd.io/-fF2VKIFRzyiWaxVQAh0wA?view) on Thursday @ 11am.
+
+
+
+

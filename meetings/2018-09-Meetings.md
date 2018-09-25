@@ -66,6 +66,15 @@ Kyle will be working on a [presentation](https://docs.google.com/presentation/d/
 
 Kyle has been in contact with some other teams working on MetaTransactions and will take part in the first [MetaTx Community Call](https://hackmd.io/-fF2VKIFRzyiWaxVQAh0wA?view) on Thursday @ 11am.
 
+### Team Sync-up 9/25/2018
+Kyle, Garin, and Eric got in a room together and discussed:
+
+Boomerang reward structures - how to simplify and how to express to the user with more clarity. For now we have decided to have Garin consider the verbiage and how to display this to the user. We are also considering stripping down the rewards system from its current implementation.
+
+Wether users are rewarded by the boomerang foundation or the business that they are reviewing. For now we have decided that the business will be paying for this cost as to avoid centralization and leeching of BOOM tokens from the foundation.
+
+We talked about creating a boomerang payment api which will alow a transfer of BOOM tokens from a user who is using a authorized device.
+ 
 
 
 

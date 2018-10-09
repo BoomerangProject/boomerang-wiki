@@ -6,3 +6,6 @@ To summarize what Kyle, Garin, and Eric just discussed: we reviewed the proposed
 
 ### Update 10/03/2018
 Kyle has been working on the open source [UniversalLoginSDK's backup code generator](https://github.com/EthWorks/UniversalLoginSDK/pull/81)
+
+### Update 10/08/2018
+Kyle has finished [UniversalLoginSDK's backup code generator](https://github.com/EthWorks/UniversalLoginSDK/commit/66f35765eed07ca874442322de30ebdefdc8ba33) and has begun work on [private key storage](https://github.com/EthWorks/UniversalLoginSDK/issues/93)

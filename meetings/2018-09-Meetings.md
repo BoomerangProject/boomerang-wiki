@@ -59,6 +59,8 @@ Kyle and Ben discussed [metatransaction standards](https://github.com/austintgri
 ###  Work Notes 9/21/2018
 Kyle has continued to poke at the [Boomerang Universal Login Proof of Concept](https://github.com/BoomerangProject/boomerang-universal-login) while merging in changes from its parent fork.
 
+Ben was laid off and removed from the project.
+
 ###  Work Notes 9/24/2018
 Kyle has continued to poke at the [Boomerang Universal Login Proof of Concept](https://github.com/BoomerangProject/boomerang-universal-login) while merging in changes from its parent fork. 
 

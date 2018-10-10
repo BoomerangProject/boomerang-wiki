@@ -13,3 +13,11 @@ Kyle has finished [UniversalLoginSDK's backup code generator](https://github.com
 
 ### Update 10/10/2018
 Kyle has submitted a [pull request](https://github.com/EthWorks/UniversalLoginSDK/pull/103) for local private key storage.
+
+Eric and Kyle had a meeting to review the path forward, here is the tenative timeline:
+1. **October**:
+Kyle will continue to work on [UniversalLoginSDK](https://github.com/EthWorks/UniversalLoginSDK), which will be featured in Prague during [devcon4](https://devcon4.ethereum.org/) at the end of the month.
+2. **November**:
+Kyle, Eric, and Garin will review how Boomerang rewards are structured, based on our discussions, Kyle will refactor the Boomerang contracts to match the vision and it will be documented in the wiki.
+3. **December - January**:
+Kyle and other developer resources at Skedaddle will begin integrating the Boomerang smart contracts into the [UniversalLoginSDK](https://github.com/EthWorks/UniversalLoginSDK) example project and refactor as needed. This will be the Alpha product.

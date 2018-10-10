@@ -13,3 +13,4 @@ Kyle has finished [UniversalLoginSDK's backup code generator](https://github.com
 
 ### Update 10/10/2018
 Kyle has submitted a [pull request](https://github.com/EthWorks/UniversalLoginSDK/pull/103) for local private key storage.
+Kyle and Eric discussed the state of the Universal Login SDK and launch plans for Boomerang. As of today, the plan is to complete the SDK POC by the end of DevCon, refactor the Boomerang Smart Contracts to fix any compatibility issues with the SDK in November, integrate the Smart Contracts into the POC in December and January, creating a pre-Alpha version where users can create Customer accounts, submit reviews of one Worker account and one Business account, and receive rewards from a testnet. We would consider inducements like a launch bonus of Booms to get users to test this pre-Alpha. 

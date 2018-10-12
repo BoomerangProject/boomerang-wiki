@@ -4,7 +4,7 @@
 
 ## Infrastructure
 ### [Universal Login (EIP 1078)](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/UniversalLogin.md)
-### [Meta Transaction Relayer - TBD]()
+### [Meta Transaction Relayer](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/MetaTransactionRelayer.md)
 ### [Caching Service - TBD]()
 
 ## Boomerang

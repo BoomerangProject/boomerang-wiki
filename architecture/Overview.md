@@ -4,7 +4,7 @@ Boomerang will implement a [Universal Login](https://github.com/BoomerangProject
 
 In addition, Boomerang will develop the [BoomerangSDK]() for our [Boomerang React App]() and for [Businesses](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/BusinessIntegration.md) to use in order to request reviews, and retreive historical reviews, ratings, and experience levels.
 
-To support the BoomerangSDK, our project will build a [Event Caching Layer]() that will serve data more rapidly to the BoomerangSDK than querying an Ethereum full node, and will allow the user to interact with the DApp without a web3 provider.
+To support the BoomerangSDK, our project will build a [Event Caching Layer]() that will serve data more rapidly to the BoomerangSDK through [BoomerandAPIs]() than querying an Ethereum full node, and will allow the user to interact with the DApp without a web3 provider.
 
 Boomerang will create the [Boomerang Login Service]() which will act as an optional central recovery service for users who misplace backup codes or lose access to their devices.
 

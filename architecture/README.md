@@ -16,4 +16,4 @@
 ### [Boomerang Reward System - TBD]()
 
 ## Integration
-### [Business Integration - TBD]()
+### [Business Integration](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/BusinessIntegration.md)

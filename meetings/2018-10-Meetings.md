@@ -21,3 +21,7 @@ Kyle will continue to work on [UniversalLoginSDK](https://github.com/EthWorks/Un
 Kyle, Eric, and Garin will review how Boomerang rewards are structured, based on our discussions, Kyle will refactor the Boomerang contracts to match the vision and it will be documented in the wiki.
 3. **December - January**:
 Kyle and other developer resources at Skedaddle will begin integrating the Boomerang smart contracts into the [UniversalLoginSDK](https://github.com/EthWorks/UniversalLoginSDK) example project and refactor as needed. This will be the Alpha product.
+
+### Update 10/12/2018
+Kyle has re-written the Boomerang platform into a single [smart contract](https://github.com/BoomerangProject/boomerang-contracts/blob/master/Boomerang.sol) by extracting the reward system.
+Kyle has updated wiki with a more thorough [architecture overview and diagram](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/Overview.md)

@@ -8,4 +8,4 @@ To support the BoomerangSDK, our project will build a [Event Caching Layer]() th
 
 Boomerang will create the [Boomerang Login Service]() 
 
-![Boomerang Architecture](imgs/BoomerangArchitecture.png "Boomerang Architecture Diagram")
+![Boomerang Architecture](imgs/BoomerangArchitecture.jpg "Boomerang Architecture Diagram")

@@ -6,3 +6,5 @@ incentivize the third party to execute a transaction on behalf of the user. This
 Ethereum or Gas. 
 
 Boomerang will use [EthWorks Universal Login Relayer](https://github.com/EthWorks/UniversalLoginSDK/tree/master/universal-login-relayer) to relay Meta-Transactions. The user will pay a fee in BOOM tokens to submit review requests and to submit reviews.
+
+More information to come...

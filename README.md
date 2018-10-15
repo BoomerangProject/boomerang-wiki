@@ -9,6 +9,6 @@ That's why we're introducing Boomerang - the operating protocol for marketplaces
 As a programmatic, ratings-based rewards and tipping protocol across all service-based industries, Boomerang will become essential infrastructure for real businesses across all service economies today — from ridesharing to coffee shops to restaurants — and become the backbone of web 3.0 and the blockchain-based businesses of tomorrow.
 
 ## Index
-### [Architecture](https://github.com/BoomerangProject/boomerang-wiki/tree/master/architecture)
+### [Architecture](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/README.md)
 ### [Projects](https://github.com/BoomerangProject/boomerang-wiki/tree/master/projects)
 ### [Meetings](https://github.com/BoomerangProject/boomerang-wiki/tree/master/meetings)

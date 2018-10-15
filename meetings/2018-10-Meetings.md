@@ -25,3 +25,6 @@ Kyle and other developer resources at Skedaddle will begin integrating the Boome
 ### Update 10/12/2018
 Kyle has re-written the Boomerang platform into a single [smart contract](https://github.com/BoomerangProject/boomerang-contracts/blob/master/Boomerang.sol) by extracting the reward system.
 Kyle has updated wiki with a more thorough [architecture overview and diagram](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/Overview.md)
+
+### Update 10/15/2018
+Kyle has been updating the wiki with additional information about the complete Boomerang architecture. Kyle is continuting to work on [persistent storage](https://github.com/EthWorks/UniversalLoginSDK/pull/103) for the UniversalLoginSDK

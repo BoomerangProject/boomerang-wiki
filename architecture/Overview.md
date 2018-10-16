@@ -10,4 +10,14 @@ The [Boomerang Smart Contracts]() allow businesses to submit review request, and
 
 As part of integration with Boomerang, Skedaddle will create an [Identity Provisioning Service]() which will give identities to new users and an [Identity Recovery Service]() which will act as an optional central recovery service for Skedaddle users who misplace backup codes or lose access to their devices.
 
+## Alpha Architecture (Local Testnet)
+![Alpha Boomerang Architecture](imgs/AlphaBoomerangArchitecture.jpg "Alpha Boomerang Architecture Diagram")
+
+## Beta Architecture (Ropsten Testnet)
+![Beta Boomerang Architecture](imgs/BetaBoomerangArchitecture.jpg "Beta Boomerang Architecture Diagram")
+
+## Release Architecture (Mainnet)
 ![Boomerang Architecture](imgs/BoomerangArchitecture.jpg "Boomerang Architecture Diagram")
+
+## Current State
+![Boomerang Architecture Progress](imgs/BoomerangArchitectureProgress.jpg "Boomerang Architecture Progress Diagram")

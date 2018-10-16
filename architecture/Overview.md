@@ -19,5 +19,5 @@ As part of integration with Boomerang, Skedaddle will create an [Identity Provis
 ## Release Architecture (Mainnet)
 ![Boomerang Architecture](imgs/BoomerangArchitecture.jpg "Boomerang Architecture Diagram")
 
-## Current State
+## Current State - Approaching Alpha
 ![Boomerang Architecture Progress](imgs/BoomerangArchitectureProgress.jpg "Boomerang Architecture Progress Diagram")

@@ -12,7 +12,8 @@
 6. Boomerang and Skedaddle welcome user, and asks for a few more steps to claim reward.
 7. Boomerang prompts user to accept or remove Skedaddle Central Account recovery (pros and cons list)
 8. Boomerang prompts user to remove old recovery key, and generate a new one, and put it somewhere safe. (Can't continue until new code generated)
-9. User owns and is logged into a Boomerang account pre-loaded with Boom tokens.
+9. Boomerang prompts user to change username.
+10. User owns and is logged into a Boomerang account pre-loaded with Boom tokens.
 
 Skedaddle is now in charge of Identity recovery, the Boomerang DAPP will list Skedaddle as the Identity Provider key in registered devices, if user hasn't removed the Identity Provider key. Boomerang DAPP will link to a skedaddle Identity Recovery website.
 

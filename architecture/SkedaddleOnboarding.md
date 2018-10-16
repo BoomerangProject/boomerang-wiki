@@ -1,4 +1,3 @@
-![alt text](https://github.com/BoomerangProject/boomerang-wiki/blob/master/images/logo.png "Boomerang Logo")
 # Skedaddle Onboarding / Business Integration
 ![Skedaddle + Boomerang Logo](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/imgs/boomsked.png "Skedaddle + Boomerang Logo")
 ## Proposed Solution

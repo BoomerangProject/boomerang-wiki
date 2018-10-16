@@ -6,6 +6,7 @@
 3. A pre-loaded identity contract writes the review on the user's behalf (through Skedaddle using the BoomerangSDK)
 4. User is given a recovery key and prompted to join Boomerang to claim Boom reward by logging in with access key and generated username.
 > Example Username: 'fineuty.skedaddle.com'
+
 > Example Recovery Key: 'zeizod-ahe-jo-joffar-luvapi'
 5. User logs into identity through Boomerang react app.
 6. Boomerang and Skedaddle welcome user, and asks for a few more steps to claim reward.

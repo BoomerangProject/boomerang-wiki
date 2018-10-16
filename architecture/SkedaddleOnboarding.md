@@ -12,5 +12,13 @@
 8. Boomerang prompts user to remove old recovery key, and generate a new one, and put it somewhere safe. (Can't continue until new code generated)
 9. User owns and is logged into a Boomerang account pre-loaded with Boom tokens.
 
+Skedaddle is now in charge of Identity recovery, the Boomerang DAPP will list Skedaddle as the Identity Provider key in registered devices, if user hasn't removed the Identity Provider key. Boomerang DAPP will link to a skedaddle Identity Recovery website.
 
-   
+With this proposed solution, there is a more clear division between Skedaddle and Boomerang when it comes to architecture:
+
+The Boomerang Foundation will own the the DAPP and the architecture that supports it, including the caching layer and Skedaddle will handle identity recovery and identity generation.
+
+This gives Skedaddle a huge opportunity to create a Skedaddle Identity Provisioning Service and a Skedaddle Identity Recovery service and turn Skedaddle into not only a company that does transportation, but provides Web3 services. If Skedaddle builds the infrastructure for provisioning ethereum identities and providing identity recovery to Boomerang, then it is just a few engineering steps away from allowing Skedaddle to provision a identities and handle recovery for any DAPP.
+
+
+

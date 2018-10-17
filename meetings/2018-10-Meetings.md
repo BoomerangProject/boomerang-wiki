@@ -29,5 +29,5 @@ Kyle has updated wiki with a more thorough [architecture overview and diagram](h
 ### Update 10/15/2018
 Kyle has been updating the wiki with additional information about the complete Boomerang architecture. Kyle is continuting to work on [persistent storage](https://github.com/EthWorks/UniversalLoginSDK/pull/103) for the UniversalLoginSDK
 
-### Update 10/15/2018
-Kyle has been updating the wiki with additional information about the complete Boomerang architecture. Kyle has created a proposed [integration plan](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/SkedaddleOnboarding.md) for Skedaddle + Boomerang. Kyle created the Boomerang2.0 monorepo where the BoomerangSDK, Boomerang mobile and desktop app will live.
+### Update 10/17/2018
+Kyle has been updating the wiki with additional information about the complete Boomerang architecture. Kyle has created a proposed [integration plan](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/SkedaddleOnboarding.md) for Skedaddle + Boomerang. Kyle created the [Boomerang2.0 monorepo](https://github.com/BoomerangProject/boomerang2.0) where the BoomerangSDK, Boomerang mobile and desktop app will live. Kyle updated the [Boomerang Contract](https://github.com/BoomerangProject/boomerang-contracts/blob/master/contracts/Boomerang.sol) to contain store user xp data. Kyle will work to turn the new Boomerang Contract project into a more standard truffle project.

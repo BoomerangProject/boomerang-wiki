@@ -32,5 +32,5 @@ Kyle has been updating the wiki with additional information about the complete B
 ### Update 10/17/2018
 Kyle has been updating the wiki with additional information about the complete Boomerang architecture. Kyle has created a proposed [integration plan](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/SkedaddleOnboarding.md) for Skedaddle + Boomerang. Kyle created the [Boomerang2.0 monorepo](https://github.com/BoomerangProject/boomerang2.0) where the BoomerangSDK, Boomerang mobile and desktop app will live. Kyle updated the [Boomerang Contract](https://github.com/BoomerangProject/boomerang-contracts/blob/master/contracts/Boomerang.sol) to contain store user xp data. Kyle will work to turn the new Boomerang Contract project into a more standard truffle project.
 
-## Architecture Walkthrough Notes 10/17/18
+### Architecture Walkthrough Notes 10/17/18
 Simon proposed a giving a qr code to the user which contains the one-time access code and username of the user to make it easier to login to boomerang: Example (boomerang://setup?id=abc.xyz&access_key=abc123)

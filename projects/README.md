@@ -3,6 +3,6 @@
 
 ### [Boomerang Contracts](https://github.com/BoomerangProject/boomerang-contracts)
 
-### [Boomerang React App](https://github.com/BoomerangProject/boomerang/tree/master/packages/dapp)
+### [Boomerang React App]()
 
 ### [BoomerangSDK]()

@@ -1,7 +1,9 @@
 ![alt text](https://github.com/BoomerangProject/boomerang-wiki/blob/master/images/logo.png "Boomerang Logo")
 # Boomerang Projects
 
-### [Boomerang Contracts](https://github.com/BoomerangProject/boomerang-contracts)
+## [Boomerang Monorepo](https://github.com/BoomerangProject/boomerang)
+
+### [Boomerang Smart Contracts](https://github.com/BoomerangProject/boomerang/tree/master/boomerang-contracts)
 
 ### [Boomerang React App]()
 

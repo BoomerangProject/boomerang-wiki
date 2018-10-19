@@ -4,7 +4,7 @@
 1. Skedaddle creates a store of deployed identity contracts pre-loaded with some amount of Boom token (~$5-10)
 2. User orders a bus, is asked to write a review
 3. A pre-loaded identity contract writes the review on the user's behalf (through Skedaddle using the BoomerangSDK)
-4. User is given a recovery key and prompted to join Boomerang to claim Boom reward by logging in with access key and generated username.
+4. User is given a recovery key and prompted to join Boomerang to claim Boom reward by logging in with access key and generated username. (Note - this could be a url request with username and access key as a QR code or a link)
 > Example Username: 'fineuty.skedaddle.xyz'
 
 > Example Recovery Key: 'zeizod-ahe-jo-joffar-luvapi'

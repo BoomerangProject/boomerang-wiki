@@ -34,3 +34,7 @@ Kyle has been updating the wiki with additional information about the complete B
 
 ### Architecture Walkthrough Notes 10/17/18
 Simon proposed a giving a qr code to the user which contains the one-time access code and username of the user to make it easier to login to boomerang: Example (boomerang://setup?id=abc.xyz&access_key=abc123)
+
+### Update 10/19/18
+Kyle has been working on the boomerang-contracts project, adding tests using the waffle library. Kyle talked with John, Simon, and Kinan about the roadmap in terms of engineering resources. Kyle will continue writing tests and making our smart contracts audit-ready for November.
+

@@ -10,7 +10,7 @@
 
 ## Boomerang
 ### [Boomerang React App - TBD]()
-### [Boomerang Smart Contracts - TBD]()
+### [Boomerang Smart Contracts](https://github.com/BoomerangProject/boomerang/blob/master/boomerang-contracts/README.md)
 ### [Boomerang SDK - TBD]()
 
 ## Design

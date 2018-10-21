@@ -9,9 +9,9 @@
 ### [IPFS -TBD]()
 
 ## Boomerang
-### [Boomerang React App - TBD]()
 ### [Boomerang Smart Contracts](https://github.com/BoomerangProject/boomerang/blob/master/boomerang-contracts/README.md)
-### [Boomerang SDK - TBD]()
+### [Boomerang SDK](https://github.com/BoomerangProject/boomerang/tree/master/boomerang-sdk/README.md)
+### [Boomerang React App - TBD]()
 
 ## Design
 ### [Boomerang Reward System - TBD]()

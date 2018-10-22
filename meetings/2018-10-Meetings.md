@@ -38,3 +38,5 @@ Simon proposed a giving a qr code to the user which contains the one-time access
 ### Update 10/19/18
 Kyle has been working on the [boomerang-contracts](https://github.com/BoomerangProject/boomerang/tree/master/boomerang-contracts) project, adding tests using the waffle library. Kyle talked with John, Simon, and Kinan about the roadmap in terms of engineering resources. Kyle will continue writing tests and making our smart contracts audit-ready for November.
 
+### Update 10/22/18
+Kyle has been working on fleshing out and hooking together the [boomerang monorepo](https://github.com/BoomerangProject/boomerang/tree/master/boomerang).

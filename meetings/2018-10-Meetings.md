@@ -40,3 +40,6 @@ Kyle has been working on the [boomerang-contracts](https://github.com/BoomerangP
 
 ### Update 10/22/18
 Kyle has been working on fleshing out and hooking together the [boomerang monorepo](https://github.com/BoomerangProject/boomerang).
+
+### Update 10/26/18
+Kyle is exploring new technologies at Status Hackathon in Prague

@@ -43,3 +43,6 @@ Kyle has been working on fleshing out and hooking together the [boomerang monore
 
 ### Update 10/26/18
 Kyle is exploring new technologies at Status Hackathon in Prague
+
+### Update 10/27/18
+Kyle is working on a hackathon project: https://github.com/REDNIT-DAPP/Redlit

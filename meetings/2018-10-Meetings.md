@@ -46,3 +46,4 @@ Kyle is exploring new technologies at Status Hackathon in Prague
 
 ### Update 10/27/18
 Kyle is working on a hackathon project: https://github.com/REDNIT-DAPP/Redlit
+continuing work...

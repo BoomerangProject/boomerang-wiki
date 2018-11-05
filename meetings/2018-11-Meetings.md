@@ -1,7 +1,7 @@
 ![alt text](https://github.com/BoomerangProject/boomerang-wiki/blob/master/images/logo.png "Boomerang Logo")
 # November 2018 Meeting Notes
 
-## Update
+## Update 11/5/2018
 Kyle spent last two weeks learning about what Ethereum's development future holds, and possible tools that Boomerang can utilize.
 
 ### Below is my proposal for developing Boomerang over the next two months:

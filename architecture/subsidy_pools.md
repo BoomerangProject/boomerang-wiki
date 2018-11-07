@@ -1,14 +1,13 @@
-#Introduction#
+# Overview
 In the "Token Distribution" section of [the white paper](https://s3.amazonaws.com/boomerang-whitepapers/boomerang_whitepaper.pdf), we discuss our desire for long-term growth of and participation of new businesses in the Boomerang ecosystem. To accomplish this goal, we would reserve three billion Boom tokens in a growth pool, with which we intend to reward businesses for joining and participating in Boomerang. These rewards would come in the form of incentives; for example, "a business might earn more tokens from the Growth Pool based on the transaction volume over a certain period of time." 
 
 As we've discussed the concept in more detail, we've found a few problems: 
 1. Creating a program that rewards businesses for a high transaction volume opens us up to Sybil attacks.
-2. We didn't define the difference in how we'd use the tokens reserved the growth pool and the 700 million tokens we reserved for partnerships.
+2. We didn't define the difference between how we'd use the three billion tokens we reserved the growth pool and the 700 million tokens we reserved for the partnerships pool.
 3. 
 
+As a result, we're going to reconceptualize the expected uses for the growth and partnership pools by turning them into a single subsidization pool, which will subsizide rewards payments and transaction costs for businesses that partner with the Boomerang Foundation for a set period of time. Below is a discussion of how this pool will work and what it will mean for businesses that choose to use Boomerang.
 
-
-As proposed, the growth pool opens Boomerang to Sybil attacks, so we're reconceptualizing it as a subsidization pool 
 
 Businesses looking to use Boomerang will encounter four types of costs:
 1. **Integration**: Integrating the Boomerang SDK into the software system used by the business.

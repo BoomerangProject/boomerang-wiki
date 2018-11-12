@@ -1,4 +1,4 @@
-# Introduction
+# Subsidy Pools
 In the "Token Distribution" section of [the white paper](https://s3.amazonaws.com/boomerang-whitepapers/boomerang_whitepaper.pdf), we discuss our desire for fostering long-term health of the Boomerang ecosystem through growth and participation. To accomplish this goal, we would reserve thirty percent of the Boom tokens in a growth pool, with which we intend to reward businesses for joining and participating in Boomerang. These rewards would come in the form of incentives; for example, "a business might earn more tokens from the Growth Pool based on the transaction volume over a certain period of time." 
 
 As we've discussed the concept in more detail, we've found a few problems: 
@@ -6,7 +6,7 @@ As we've discussed the concept in more detail, we've found a few problems:
 2. Despite the flaws in the intended purpose of the growth pool, we still want a way to incentivize businesses to join Boomerang.
 3. We didn't define how we'd use the seven percent of tokens we reserved for the partnerships pool.
 
-As a result, we're going to repurpose the growth and partnership pools into a single subsidization pool, which we'll use to subsizide rewards payments and transaction costs over a predetermined period of time for businesses that partner with the Boomerang Foundation. 
+As a result, we're going to repurpose the growth and partnership pools into a single subsidization pool, which we'll use to subsidize rewards payments and transaction costs over a predetermined period of time for businesses that partner with the Boomerang Foundation. 
 
 # Partnerships
 Anyone can become a Business user by grabbing the code for the Boomerang SDK, setting it up on a system, and using it to request reviews, manage workers, and distribute rewards, all without any relationship with the Boomerang Foundation. However, in order to foster long-term growth, we want some businesses to sign up because we think they'll be good additions to the ecosystem. We'll approach these businesses, with the goal of signing a partnership agreements that guarantee usage in exchange for the benefits of the subsidization pool.

@@ -15,6 +15,7 @@
 
 ## Design
 ### [Boomerang Reward System - TBD]()
+### [User Types](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/UserTypes.md)
 
 ## Integration
 ### [Business Integration](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/SkedaddleOnboarding.md)

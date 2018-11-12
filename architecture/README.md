@@ -18,3 +18,4 @@
 
 ## Integration
 ### [Business Integration](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/SkedaddleOnboarding.md)
+### [Subsidy Pools](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/SubsidyPools.md)

@@ -22,7 +22,3 @@ While we can't do much about integration costs, we can mitigate the effect of th
 1. The Boomerang Foundation certifies that the partner has completed work on the integration.
 2. The Boomerang Foundation transfers Boomerang tokens to the partner's identity. The partner will use these tokens as rewards payments to Customers and Workers.
 3. The Boomerang Foundation gives the partner an API key. The API key will allow the partner to request and receive refunds for the gas costs of creating identities, distributing rewards, and requesting reviews. In case of abuse, the Boomerang Foundation will be able to the throttle requests or cut off access.
-
-# Integration Process
-
-# Partnership Negotiation

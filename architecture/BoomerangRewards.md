@@ -1,23 +1,12 @@
-# Overview
-As discussed [in the whitepaper](https://s3.amazonaws.com/boomerang-whitepapers/boomerang_whitepaper.pdf), neither customers nor workers reap the true value for their contributions to the growth of businesses they shop at and work for. Boomerang, our solution to the problem, operates on three assumptions:
-1. There is a strong connection between a business's public reputation and their growth rate, such that actions that improve a business's reputation will increase its revenues.
-2. It's possible to create a system that rewards customers and workers for those contributions (positive reviews, good service) that contribute to the growth of a business through improving its reputation.
-3. That rewards system can be renumerative to customers and workers without damaging the health of the business by using cryptocurrency tokens.
-
-While what we describe in the whitepaper conforms to these assumptions at a high level, we're going to flesh out the details in this document.
-
 # Boom Tokens
+A [Customer](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/UserTypes.md) will receive Boom tokens from a [Business](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/UserTypes.md) in return for submitting a rating and review. The number of tokens the Customer receives will depend on the settings used by the Business. If the Business is using the Boomerang SDK, the Customer will also receive a bonus number of Boom tokens based on their level (see below).
 
+Boomerang ratings operate on a three-point scale (negative, neutral, and positive). A [Worker](https://github.com/BoomerangProject/boomerang-wiki/blob/master/architecture/UserTypes.md) will receive Boom tokens from a Business based on the review they received from a Customer. As with Customer rewards, the number of tokens the Worker receives will depend on the settings used by the Business.
 
 # Experience Points
-One area that we want to improve is 
-
-At a high level, what we describe in the whitepaper conforms to these assumptions. However, as we've dug deeper into the details, we've found that it will likely do a better job of rewarding Workers than Customers, 
-
-As we've delved into the structure of the rewards system, we've discovered that it's the workers who benefit the most from the system. Assuming a world where Boomerang is accepted everywhere, a given Customer might still only have ten or twenty rewards from reviews on a daily basis, while an employee at a high-turnover business like a coffeeshop might serve dozens of customers and get rewards accordingly. This clearly is a good thing for workers and is in line with our part of our goal, but doesn't specifically induce customers to continue to participate. As a result, we want to structure the Boomerang rewards system in a way that provides immediate rewards for Customers and encourages them to continue to participate over time.
-
-Experience points represent engagement: Customer has helped build the reputation of one or more Businesses by responding to requests for reviews.
+We expect that Workers will earn more Boom tokens than Customers because a single Worker will likely be involved in more transactions (and thus receive more Customer reviews) in a single day than a Customer will make purchases (and thus submit more reviews). To make participation more valuable to Customers, Boomerang will reward Customers with experience points for each rating and review submission. As with Boom token rewards, the amount of experience points that the Customer receives for a rating and review will be set by the Business. As we add additional businesses to Boomerang, we will explore the impact of aggregating experience points by source Business and its impact on levels and Boom token rewards. 
 
 # Levels
+A level is a threshold where the Customer has earned a set number of experience points. For each new level, the Customer will get an increasing amount in bonus Boom tokens for their rating and review from those Business that use the Boomerang SDK. The Boomerang SDK will support ten levels; a Business will be able to customize the bonus modifier for each level.
 
 # Using Rewards

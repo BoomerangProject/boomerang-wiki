@@ -10,3 +10,6 @@ Kyle spent last two weeks learning about what Ethereum's development future hold
   - Merge changes from the UniversalLoginSDK once a week, this may be a 1-2 day task depending on changes.
   - Kyle will take on an issue at a time, and Garin will build designs around that feature. We will consult if issues between design and implementation arise.
   - Designs will be logged and need to be integrated into implementation down the road.
+
+## Update 11/15/2018
+Kyle has begun integrating features into Boomerang dApp. 

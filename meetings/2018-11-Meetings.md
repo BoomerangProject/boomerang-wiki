@@ -13,3 +13,7 @@ Kyle spent last two weeks learning about what Ethereum's development future hold
 
 ## Update 11/15/2018
 Kyle has begun integrating features into Boomerang dApp. 
+
+
+## Update 11/18/2018
+Completed review request, profile editing, and pending review notification features, working on review submission feature.

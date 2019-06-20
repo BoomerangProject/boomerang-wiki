@@ -39,3 +39,5 @@ User hits submit in email.
 ### Create workflow for business to add offerings to repeat customers
 Right now there is the idea of XP that users and workers can earn for completing reviews and receiving positive reviews, but there is not way on-chain to release an offering based on that XP score.
 
+### Multi-sig contract wallets with ENS names (Universal Login)
+
